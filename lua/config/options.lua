@@ -4,4 +4,4 @@ vim.opt.shiftwidth = 2
 vim.opt.expandtab = true
 vim.opt.autoindent = true
 vim.opt.list = false
-vim.g.indent_blankline_enabled = 0
+vim.g.indent_blankline_enabled = false
